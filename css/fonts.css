@@ -1,0 +1,25 @@
+
+/*  font-family:  */
+@font-face {
+    font-family: Agbalumo ;
+    src: url('../font/Agbalumo/Agbalumo-Regular.ttf');
+}
+
+/*  font-family:   */
+@font-face {
+    font-family: Playfair_Display;
+    src: url('../font/Playfair_Display/PlayfairDisplay-Italic-VariableFont_wght.ttf');
+}
+
+/*  font-family:   */
+@font-face {
+    font-family: Raleway;
+    src: url('../font/Raleway/Raleway-VariableFont_wght.ttf');
+}
+
+/*  font-family:   */
+@font-face {
+    font-family: Vina_Sans;
+    src: url('../font/Vina_Sans/VinaSans-Regular.ttf');
+}
+
